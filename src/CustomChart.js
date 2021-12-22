@@ -4,6 +4,7 @@ import data from "./data.js";
 
 let getLineConfig = color => ({
   //fill: false,
+  // isStacked: true,
   lineTension: 0.1,
   borderCapStyle: "butt",
   borderDash: [],
